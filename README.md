@@ -1,5 +1,5 @@
 # ibm-kubernetes-labs
-# IBM Kubernetes, Docker, and OpenShift Labs
+# IBM Kubernetes, Docker, and OpenShift Certifcation Labs 
 
 This repository contains links to the IBM Skills Network labs I am currently working on as part of my learning journey in Kubernetes, Docker, and OpenShift. Below are the links to each lab that I am practicing:
 
