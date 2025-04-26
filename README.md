@@ -5,7 +5,7 @@ This repository contains links to the IBM Skills Network labs I am currently wor
 
 ## Completed Labs
 
-### 1. [Lab:Introduction to Containers, Docker, and IBM Cloud Container Registry]([)](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/kgtxc/lab-introduction-to-containers-docker-and-ibm-cloud-container-registry)
+### 1. [Lab:Introduction to Containers, Docker, and IBM Cloud Container Registry] (https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/kgtxc/lab-introduction-to-containers-docker-and-ibm-cloud-container-registry)
 
 In this lab, we did the following: Pull an image from Docker Hub, Run an image as a container using docker, Build an image using a Dockerfile, and Push an image to IBM Cloud Container Registry.
 ### 2. [Lab:Practice Lab: Introduction to Kubernetes Objects] (https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/CFJWM/practice-lab-introduction-to-kubernetes-objects)  
