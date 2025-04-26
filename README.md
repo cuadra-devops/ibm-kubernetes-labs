@@ -7,13 +7,10 @@ This repository contains links to the IBM Skills Network labs I am currently wor
 
 ### 1. [Lab:Introduction to Containers, Docker, and IBM Cloud Container Registry]([)](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/kgtxc/lab-introduction-to-containers-docker-and-ibm-cloud-container-registry)
 
-In this lab, we did the following:
-Pull an image from Docker Hub
-Run an image as a container using docker
-Build an image using a Dockerfile
-Push an image to IBM Cloud Container Registry
-### 2. [Lab: Managing ConfigMaps and Secrets](https://www.ibm.com/training/course/yyyy)  
-Explores how to use ConfigMaps and Secrets to manage application configurations and sensitive data in Kubernetes.
+In this lab, we did the following: Pull an image from Docker Hub, Run an image as a container using docker, Build an image using a Dockerfile, and Push an image to IBM Cloud Container Registry.
+### 2. [Lab:Practice Lab: Introduction to Kubernetes Objects (https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/CFJWM/practice-lab-introduction-to-kubernetes-objects)  
+
+In this lab,we did the following: Create a Kubernetes Service, Use various kubectl commands, Deploy a StatefulSet for managing stateful applications, Implement a DaemonSet for running a single pod on all nodes.
 
 ### 3. [Lab: Working with Persistent Storage](https://www.ibm.com/training/course/zzzz)  
 Learn how to work with persistent volumes and persistent volume claims in Kubernetes.
