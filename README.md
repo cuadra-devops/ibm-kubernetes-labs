@@ -12,10 +12,10 @@ In this lab, we did the following: Pull an image from Docker Hub, Run an image a
 
 In this lab I did the following: Create a Kubernetes Service, Use various kubectl commands, Deploy a StatefulSet for managing stateful applications, Implement a DaemonSet for running a single pod on all nodes.
 
-### 3. [Lab: Scaling and Updating Applications]([)](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/SMHuo/hands-on-lab-scaling-and-updating-applications)
+### 3. [Lab: Scaling and Updating Applications] (https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/SMHuo/hands-on-lab-scaling-and-updating-applications)
 In this lab I did the following:Scale an application with a ReplicaSet, Apply rolling updates to an application, Use a ConfigMap to store application configuration, andAutoscale the application using Horizontal Pod Autoscaler.
 
-### 4. [Lab: Introduction to RedHat OpenShift]([)](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/Hz976/lab-introduction-to-openshift)  
+### 4. [Lab: Introduction to RedHat OpenShift] (https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/Hz976/lab-introduction-to-openshift)  
 In this lab I did the following: Use the oc CLI (OpenShift command line interface), Use the OpenShift web console, Build and deploy an application using s2i ('Source-to-image' build strategy), Inspect a BuildConfig and an ImageStream, and Autoscale the application.
 ### 5. [Lab: Creating Docker Containers](https://www.ibm.com/training/course/bbbb)  
 Learn how to create and deploy Docker containers for Kubernetes and OpenShift environments.
