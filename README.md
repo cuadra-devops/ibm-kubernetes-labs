@@ -5,8 +5,7 @@ This repository contains links to the IBM Skills Network labs I am currently wor
 
 ## Completed Labs
 
-### 1. [Lab:Introduction to Containers, Docker, and IBM Cloud Container Registry]
-([)](https://labs.cognitiveclass.ai/v2/tools/cloud-ide-kubernetes?ulid=ulid-890236321f9b1051ba114502cc1abb3eb9cbdf6b)
+### 1. [Lab:Introduction to Containers, Docker, and IBM Cloud Container Registry]([)](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/kgtxc/lab-introduction-to-containers-docker-and-ibm-cloud-container-registry)
 
 In this lab, we did the following:
 Pull an image from Docker Hub
