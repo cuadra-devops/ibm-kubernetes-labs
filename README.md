@@ -19,7 +19,11 @@ In this lab I did the following:Scale an application with a ReplicaSet, Apply ro
 In this lab I did the following: Use the oc CLI (OpenShift command line interface), Use the OpenShift web console, Build and deploy an application using s2i ('Source-to-image' build strategy), Inspect a BuildConfig and an ImageStream, and Autoscale the application.
 ### 5. [Practice Project - Understanding ConfigMaps, DaemonSets, Kubernetes Services, Secrets & Persistent Volume Claims] (https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/CiM7w/practice-project-understanding-configmaps-daemonsets-kubernetes-services-secrets)  
 In this practice project I did the following: ConfigMap, DaemonSet, Kubernetes Service, Secret, andVolumes and Persistent Volume Claims.
-
+1.how to set up a ConfigMap to manage configuration data for the myapp application.
+2.create a DaemonSet to ensure that a pod runs on each node in the cluster, including the nodes where the 'myapp' pods are deployed.
+3.create a Kubernetes Service to expose your application within the cluster.
+4.create and manage secrets in Kubernetes to securely store sensitive information, such as passwords, tokens, and SSH keys.
+5. how to define volumes and persistent volume claims (PVCs) in Kubernetes to provide storage for your application.
 ## Summary
 
 This repository will continue to be updated as I complete more labs and challenges in the IBM Kubernetes and Cloud course. Stay tuned!
