@@ -53,7 +53,7 @@ In this practice project I did the following: ConfigMap, DaemonSet, Kubernetes S
 4.create and manage secrets in Kubernetes to securely store sensitive information, such as passwords, tokens, and SSH keys.
 5. how to define volumes and persistent volume claims (PVCs) in Kubernetes to provide storage for your application.
 
-## 🚀 Final Project: Guestbook Application Deployment 
+## 🚀 Final Project: Guestbook Application Deployment - [https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift/ungradedLti/z3P8y/optional-deploy-guestbook-app-from-the-openshift-internal-registry]
 
 **Project Summary**:
 Deploying a cloud-native Guestbook app with full Kubernetes management.
